@@ -1,3 +1,10 @@
+== Telewiki ==
+27/12/2014 Forked.intension to have a intergrated mediawiki into wordpress.
+added :
+'''WPMW''' is an extension for integrating a MediaWiki within a WordPress installation. It is currently working, but in alpha-quality.
+Forked foreground skin for easy integrating in a wordpress theme
+
+
 == MediaWiki ==
 
 MediaWiki is a free and open-source wiki software package written in PHP. It
